@@ -1,0 +1,19 @@
+/* Computer Format Styles */
+/* Universal Stylings */
+
+/* Header Stylings */
+header {
+    background-color: #101010;
+}
+header p {
+    color: #6BD0FF;
+    display: inline-block;
+}
+.headerButton {
+    margin: 0 auto 0 auto;
+}
+
+/* Calculator Stylings */
+main {
+    background-color: #1F2123;
+}
